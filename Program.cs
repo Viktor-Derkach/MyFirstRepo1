@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("one more additional note!");
+Console.WriteLine("third stream Hello conflict!");
